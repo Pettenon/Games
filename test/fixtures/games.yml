@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  category_id: 1
+  plataform: 1
+  release: 2013-02-15
+
+two:
+  name: MyString
+  category_id: 1
+  plataform: 1
+  release: 2013-02-15
